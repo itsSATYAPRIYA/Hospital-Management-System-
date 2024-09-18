@@ -1,0 +1,7 @@
+Hospital Management System
+|
+|-- patient.py
+|-- doctor.py
+|-- appointment.py
+|-- billing.py
+|-- main.py(patient.py + doctor.py + appointment.py + billing.py)
